@@ -12,6 +12,7 @@
 
 
 <!-- 个人简介-->
+<div align="center"><a href="https://sunguoqi.com/"> <img src="/images/logo.svg"> </a> </div>
 <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
 
